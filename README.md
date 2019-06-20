@@ -12,7 +12,8 @@ Remember you should have a 'keys.js' file in your './config' folder
  
 It looks like this: 
 
-``` module.exports = {
+``` 
+module.exports = {
 	google: {
 		clientID: '************-*********************************.apps.googleusercontent.com',
 		clientSecret: '************************',
