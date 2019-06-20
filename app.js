@@ -38,6 +38,6 @@ app.get('/', (req, res) => {
 	res.render('home', { user: req.user });
 });
 
-app.listen(3000, () => {
+app.listen(8080, () => {
 	console.log('app now listening for requests on port 3000');
 });
